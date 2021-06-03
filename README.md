@@ -1,5 +1,4 @@
-# PyShark-to-Graph 
-Purpose: Visual-Network-Graph-Analyzer
+# PyShark-to-Graph-Visual-Network-Graph-Analyzer
 
 This network-graph analyzer gives visual representation of data captured from WireShark (pcap file) or any similar compatible file format. The captured data will covert the text into maps, graphs, charts, and etc. To put this into perspective, it is the taking information (data) and placing it into a visual context, such as a map or graph. Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. In the early days, the easiest and most common way to create a data visualization was to take the information from an Excel spreadsheet and transform it into a bar graph, pie chart, or table. This method is still extremely effective, but the art of data visualization has also come a long way in the past 20+ years. Nowadays, you also have the option to create more intricate visualizations such as Bubble clouds, Bullet graphs, Readial trees, and etc. using Pyshark and Matplotlib library.
 
