@@ -30,6 +30,13 @@ How to run it?
 2. python3 ./nets_visualizer.py
 Note that the syntax used is compatible only to python3 version.
 
+Uploaded Sample Data
+--------------------
+Data can be tailored from the PCAP captured from the wireshark. Below are the tailored data of an interest.
+data.txt (tailored data: small)
+data_more.txt (medium)
+data_more1.txt (big)
+
 Future Work
 -----------
 Many small and medium business with IT infrastructure that do not have budget to create visual network analyzer should delve into development components for easy transition from “raw data” to pictorial diagram of the Wireshark's data.There are many modules/libraries available to create visual data derived from PyShark, but it needs lots of formatting to be compatible. As a result, PyShark must have a module to convert to more data format that are consumable by other modules to present visual data.
