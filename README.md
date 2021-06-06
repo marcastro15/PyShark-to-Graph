@@ -28,7 +28,7 @@ How to run it?
 --------------
 1. Get the data source from WireShark (pcap format)
 2. python3 ./nets_visualizer.py
-
+Note that the syntax used is compatible only to python3 version.
 
 Future Work
 -----------
