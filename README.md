@@ -36,6 +36,7 @@ Data can be tailored from the PCAP captured from the wireshark. Below are the ta
 data.txt (tailored data: small)
 data_more.txt (medium)
 data_more1.txt (big)
+Note: The marcap (PCAP) format is too bit to upload. You may create your own.
 
 Future Work
 -----------
